@@ -1,4 +1,5 @@
 // alert("Are you sure to open site?");
+document.writeln("Hallo!")
 
 console.log("Today is 8 November")
 
