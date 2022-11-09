@@ -1,5 +1,6 @@
 // alert("Are you sure to open site?");
 document.writeln("Hallo!")
+document.getElementById("h1").style.fontFamily = "sans-serif"
 
 console.log("Today is 8 November")
 
